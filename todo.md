@@ -4,3 +4,5 @@
 - [ ] capitalize
 - [ ] split into word tokens
 - [ ] markdown (@marked)
+- [ ] d3 graph
+  - [ ] word count

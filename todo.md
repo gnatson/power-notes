@@ -4,5 +4,6 @@
 - [ ] capitalize
 - [ ] split into word tokens
 - [ ] markdown (@marked)
-- [ ] d3 graph
-  - [ ] word count
+- [ ] d3 graph word count
+- [ ] save localStorage
+- [ ] save on disk

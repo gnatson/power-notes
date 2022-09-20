@@ -1,4 +1,6 @@
-# all
+# ✅ TODO
+
+## all
 
 - [ ] title case
 - [ ] capitalize
@@ -8,10 +10,10 @@
 - [ ] save localStorage
 - [ ] save on disk
 
-<!-- split notes into 3 different ones. each with different name -->
+## RAW ideas
 
-<!-- regexp emojis -->
-
-<!-- regexp collect names and emails from file -->
-
-<!-- drag, drop support -->
+- [ ] split notes into 3 different ones. each with different name
+- [ ] regexp emojis
+- [ ] regexp collect names and emails from file
+- [ ] drag, drop support
+- [ ] d3 diagram (most ussed letters, words, phrases, names)

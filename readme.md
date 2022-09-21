@@ -2,14 +2,6 @@
 
 ![preview](preview.png)
 
-## 👀 Live preview
-
-[project-name].pages.dev
-
-## screenshots (preview)
-
-## 🎥 video.mp4 (preview)
-
 ## features
 
 - [ ] draw graph (most common characters, words)

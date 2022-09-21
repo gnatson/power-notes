@@ -1,5 +1,7 @@
 # 📘 PowerNotes
 
+![preview](preview.png)
+
 ## 👀 Live preview
 
 [project-name].pages.dev
